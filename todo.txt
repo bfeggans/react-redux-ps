@@ -1,0 +1,10 @@
+React/Redux
+- Build:
+    o Automated Testing
+    o Linting
+    o Minification
+    o Bundling
+    o JSX Compilation
+    o ES6 Compilation
+
+- npm scripts instead of Gulp
